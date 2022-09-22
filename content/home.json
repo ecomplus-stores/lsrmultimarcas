@@ -3,8 +3,26 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/capa-do-facebook-851x315-px.-2-.jpeg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capa-do-facebook-851x315-px.-5-.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capa-do-facebook-851x315-px.-4-.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/capa-do-facebook-851x315-px.-3-.jpeg"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
