@@ -1,5 +1,6 @@
 {
   "domain": "lsrmultimarcas.netlify.app",
+  "repository": "ecomplus-stores/lsrmultimarcas",
   "currency_symbol": "R$",
   "primary_color": "#af01a6",
   "theme": {
