@@ -29,11 +29,6 @@
       "img": "/img/uploads/capa-do-facebook-851x315-px.-6-.jpeg"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dimensoes-personalizadas-10x2-cm.jpeg",
-      "link": "https://play.google.com/store/apps/details?id=br.com.app.gpu2852626.gpu62e3033b232bcdf8af5a17b1d62904f3"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
