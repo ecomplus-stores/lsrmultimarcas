@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/capa-do-facebook-851x315-px.-2-.jpeg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": false,
