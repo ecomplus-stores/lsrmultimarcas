@@ -4,7 +4,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/capa-do-facebook-851x315-px.-2-.jpeg"
+      "img": "/img/uploads/capa-do-facebook-851x315-px.-2-.jpeg",
+      "link": "https://lsrmultimarcas.netlify.app/promocao"
     },
     {
       "type": "banner-slider",
