@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1075958732d593bf5e7269a10a6e8e58.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.00a006bfaad3bcee551ca4aa43d5c280.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.5fe42d9e9406c66de66f01e7d582c5be.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.3c4872fbf3320d20376ada812c43b0b5.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.eb77d59d7de3c7c5e22fad8ae703f3c5.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Essencial Multi Marcas",
+  "short_name": "Essencial Multi Marcas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Essencial Multi Marcas",
+  "background_color": "#ffffff",
+  "theme_color": "#af01a6"
+}
