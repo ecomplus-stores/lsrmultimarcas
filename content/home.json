@@ -3,11 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/capa-do-facebook-851x315-px.-3-.jpeg",
-      "link": "https://lsrmultimarcas.netlify.app/promocao"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "full_width": false,
@@ -15,17 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/capa-do-facebook-851x315-px.-5-.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/capa-do-facebook-851x315-px.-4-.jpeg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/capa-do-facebook-851x315-px.-3-.jpeg"
         }
       ]
     },
