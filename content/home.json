@@ -15,10 +15,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/capa-do-facebook-851x315-px.-6-.jpeg"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
